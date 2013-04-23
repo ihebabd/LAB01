@@ -2,7 +2,6 @@ public class Bonjour {
 
 	public Bonjour() {
 		// TODO Auto-generated constructor stub
-		//Hello first text addeed from Eclipse
 	}
 
 	/**
